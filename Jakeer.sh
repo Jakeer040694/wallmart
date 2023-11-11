@@ -3,3 +3,4 @@
 pwd
 date ls
 echo " Just for practicing purpose only "
+git status
